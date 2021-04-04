@@ -16,7 +16,7 @@ jobs:
           make docs
 
       - name: Deploy 🚀
-        uses: Brun04/github-pages-deploy-action@4.1.0
+        uses: Brun04/character-tree
         with:
           branch: gh-pages
           folder: docs/html
