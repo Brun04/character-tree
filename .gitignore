@@ -1,0 +1,17 @@
+# Data file
+*.csv
+
+# Working directory
+tempdir
+
+# Production files
+treeBuilder
+treeBuilder.exe
+*.pdf
+*.tex
+
+# Logs
+*.log
+
+# Docs
+docs/html
