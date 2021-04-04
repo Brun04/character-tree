@@ -12,7 +12,7 @@ jobs:
 
       - name: Build docs 🔧
         run: |
-          apt install -y doxygen
+          sudo apt install -y doxygen
           make docs
       - name: Deploy to GitHub Pages
         if: success()
