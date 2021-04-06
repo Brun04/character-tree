@@ -15,6 +15,23 @@ limitations under the License.
 */
 
 /**
+ * \mainpage CharacterTree 1.0.0
+ * 
+ * A tree creator from a formatted CSV file. It write its results
+ * in a TeX file which is a beamer document.
+ * 
+ * This documentation contained a small user documentation from the README file of the
+ * [GitHub repositiory](https://github.com/Brun04/character-tree) and a developer documentation
+ * generated with Doxygen.
+ * 
+ * For the Github page, the documentation is generated with Actions thanks to 
+ * [ghaction-github-pages workflow](https://github.com/crazy-max/ghaction-github-pages).
+ * 
+ * \see [User documentation](./md__r_e_a_d_m_e.html)
+ * \see [Developer documentation] (./treestruct_8h.html)
+ */
+
+/**
  * \file treestruct.h
  * \brief Tree creator from a formatted CSV file. It write its results
  * in a TeX file which is a Beamer document.
