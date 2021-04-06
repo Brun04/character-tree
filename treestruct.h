@@ -16,8 +16,8 @@ limitations under the License.
 
 /**
  * \file treestruct.h
- * \brief Tree creator from a formated CSV file. It write its results
- * as a LaTeX Beamer file which can be compiled with pdflatex.
+ * \brief Tree creator from a formatted CSV file. It write its results
+ * in a TeX file which is a Beamer document.
  * \author Bruno Verchère
  * \version 1.0.0
  * \date 2021
@@ -33,7 +33,7 @@ limitations under the License.
 
 /**
  * \var int MAXLEN
- * \brief A macro representing the maximum lenght of a string.
+ * \brief A macro representing the maximum length of a string.
  */
 
 /**
